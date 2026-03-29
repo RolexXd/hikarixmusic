@@ -97,11 +97,11 @@ PING_IMG_URL = getenv(
     "PING_IMG_URL",
     "https://files.catbox.moe/34xlvu.jpg",
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/34xlvu.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/34xlvu.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/d6d42f.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/d6d42f.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/d6d42f.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/d6d42f.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/d6d42f.jpg"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
 YOUTUBE_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/34xlvu.jpg"
