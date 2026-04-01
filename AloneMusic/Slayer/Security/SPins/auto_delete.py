@@ -1,7 +1,9 @@
-
 import asyncio
+
 from pyrogram import Client, filters
+
 from AloneMusic.Slayer.Security.Sdatabase import groups
+
 
 @Client.on_message(filters.group & filters.text)
 async def auto_delete(client, message):

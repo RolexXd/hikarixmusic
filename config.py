@@ -22,7 +22,10 @@ API_HASH = getenv("d6186691704bd901bdab275ceaab88f3")
 BOT_TOKEN = getenv("8752427731:AAFWD6FLAVe8YIGtjuTPZNEaEgRMufUnoWY")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("mongodb+srv://maxx99596_db_user:zXx9k0yY9ruCvNJV@cluster0.aamlvxf.mongodb.net/?appName=Cluster0", None)
+MONGO_DB_URI = getenv(
+    "mongodb+srv://maxx99596_db_user:zXx9k0yY9ruCvNJV@cluster0.aamlvxf.mongodb.net/?appName=Cluster0",
+    None,
+)
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 
@@ -40,7 +43,9 @@ OWNER_ID = int(getenv("5303251380", 5303251380))
 # Your heroku app name
 HEROKU_APP_NAME = getenv("hikari")
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HRKU-AArEwk2VzkV34TPhdvIMNUvVNUqOORRE2rKwVwZC0nqw_____wa5cyLZDJm9")
+HEROKU_API_KEY = getenv(
+    "HRKU-AArEwk2VzkV34TPhdvIMNUvVNUqOORRE2rKwVwZC0nqw_____wa5cyLZDJm9"
+)
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
